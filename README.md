@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋, my name is Hassan Ng
 
-<!--
-**hassanng-dev/hassanng-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/107250690/197091928-246960e4-f153-4a34-a1ac-e59a5298735a.png)
 
-Here are some ideas to get you started:
+Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid snowboarder. During the warmer months here in Boston, I enjoy hiking, biking trails and traveling to other states and countries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When forced indoors, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on improving my JS code 
+- 🌱 I’m currently learning Node.js 
+- 📫 How to reach me: Hassanngdev@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I enjoy hiking during the summer, and snowboarding during the winter. 
+
+
+
+
