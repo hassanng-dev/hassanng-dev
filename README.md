@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Hassan Ng
 
 
-![hassan-ng-logo](https://user-images.githubusercontent.com/107250690/204204482-277756e2-373b-4a38-99b8-793c0cf6731e.png)
+![image](https://user-images.githubusercontent.com/107250690/197091928-246960e4-f153-4a34-a1ac-e59a5298735a.png)
 
 
 
