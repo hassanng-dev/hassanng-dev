@@ -1,6 +1,7 @@
 ## Hi there 👋, my name is Hassan Ng
 
-![image](https://user-images.githubusercontent.com/107250690/197091928-246960e4-f153-4a34-a1ac-e59a5298735a.png)
+![Hassan Ng](https://user-images.githubusercontent.com/107250690/204203030-e062469a-354b-4695-ac5f-718516db5e1e.png)
+
 
 Apart from being a web developer, I enjoy most of my time being outdoors. In the winter, I am an avid snowboarder. During the warmer months here in Boston, I enjoy hiking, biking trails and traveling to other states and countries.
 
