@@ -18,5 +18,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - ⚡ Fun fact: I enjoy hiking during the summer, and snowboarding during the winter. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hassanng-dev)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanng-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=hassanng-dev)  
 
