@@ -12,7 +12,7 @@ When forced indoors, I am an aspiring chef, and I spend a large amount of my fre
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on improving my JS code 
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning React 
 - 📫 How to reach me: Hassanngdev@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I enjoy hiking during the summer, and snowboarding during the winter. 
