@@ -17,8 +17,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I enjoy hiking during the summer, and snowboarding during the winter. 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hassanng-dev)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanng-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 
